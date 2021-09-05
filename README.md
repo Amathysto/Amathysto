@@ -27,6 +27,8 @@ https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
 https://github.com/HyperGAN/HyperGAN
 
+https://github.com/tsurumeso/vocal-remover
+
 Basically, just AI/ Neural Networking stuff.
 
 --------------------------------------------------------------------------------------
