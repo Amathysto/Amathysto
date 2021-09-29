@@ -9,7 +9,7 @@ The way I learn is by reverse engineering other bits of code on the internet tha
 
 I am currently in the process of learning :
 
-### HTML, CSS, JavaScript, C#, Python, Lua and Batch.
+### HTML, CSS, JavaScript, C#, Python, Lua, Batch, SQL And PHP
 
 --------------------------------------------------------------------------------------
 
