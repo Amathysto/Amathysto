@@ -43,7 +43,9 @@ Basically, just AI/ Neural Networking stuff.
 Right now, my projects consist of :
 
 My website - www.crystalsquad.org
+
 MonkBot - A discordpy based discord bot.
+
 MelonLoader Mods - A mod loader for Unity games.
 
 --------------------------------------------------------------------------------------
