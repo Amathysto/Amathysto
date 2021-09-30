@@ -5,7 +5,6 @@ My name is Amethy, or you can refer to me as Amathyst, or 4m47hy57, Amy, whateve
 I learn code in my free time as I really don't have anything better to do, that and its pretty cool to learn.
 The way I learn is by reverse engineering other bits of code on the internet that is publically available. I find this the easiest way to learn code, speaking personally of course.
 
-- 😄 Pronouns: Call me anything you want, I don't care. I am a He/Him though.
 - ⚡ Fun fact: I went camping one time with my friends and ended up exploding a can of beans into my face.
 
 I am now afraid of bean cans.
